@@ -1,0 +1,5 @@
+pybloom-live
+networkx
+matplotlib
+tabulate
+PyQt5

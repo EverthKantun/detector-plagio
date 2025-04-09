@@ -4,23 +4,23 @@ RESULTADOS DE SIMILITUD ENTRE DOCUMENTOS
 ╒══════════════════╤══════════════════╤═════════════╕
 │ Documento 1      │ Documento 2      │ Similitud   │
 ╞══════════════════╪══════════════════╪═════════════╡
-│ documento_46.txt │ documento_8.txt  │ 4.56%       │
+│ documento_42.txt │ documento_91.txt │ 4.52%       │
 ├──────────────────┼──────────────────┼─────────────┤
-│ documento_34.txt │ documento_95.txt │ 4.30%       │
+│ documento_1.txt  │ documento_93.txt │ 4.28%       │
 ├──────────────────┼──────────────────┼─────────────┤
-│ documento_11.txt │ documento_18.txt │ 3.99%       │
+│ documento_15.txt │ documento_3.txt  │ 4.27%       │
 ├──────────────────┼──────────────────┼─────────────┤
-│ documento_80.txt │ documento_98.txt │ 3.98%       │
+│ documento_58.txt │ documento_6.txt  │ 4.04%       │
 ├──────────────────┼──────────────────┼─────────────┤
-│ documento_36.txt │ documento_42.txt │ 3.76%       │
+│ documento_30.txt │ documento_6.txt  │ 4.01%       │
 ├──────────────────┼──────────────────┼─────────────┤
-│ documento_42.txt │ documento_55.txt │ 3.75%       │
+│ documento_22.txt │ documento_79.txt │ 4.01%       │
 ├──────────────────┼──────────────────┼─────────────┤
-│ documento_36.txt │ documento_65.txt │ 3.74%       │
+│ documento_53.txt │ documento_56.txt │ 3.98%       │
 ├──────────────────┼──────────────────┼─────────────┤
-│ documento_32.txt │ documento_41.txt │ 3.74%       │
+│ documento_75.txt │ documento_79.txt │ 3.76%       │
 ├──────────────────┼──────────────────┼─────────────┤
-│ documento_14.txt │ documento_17.txt │ 3.74%       │
+│ documento_36.txt │ documento_75.txt │ 3.76%       │
 ├──────────────────┼──────────────────┼─────────────┤
-│ documento_44.txt │ documento_7.txt  │ 3.71%       │
+│ documento_12.txt │ documento_17.txt │ 3.76%       │
 ╘══════════════════╧══════════════════╧═════════════╛

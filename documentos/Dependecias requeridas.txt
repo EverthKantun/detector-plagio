@@ -1,5 +1,0 @@
-Dependecias requeridas:
-pip install pybloom-live
-pip install networkx matplotlib
-pip install tabulate
-pip install PyQt5

@@ -53,8 +53,8 @@ def menu():
             print("\nSelecciona los documentos para comparar:")
             print("1. ensayo_Priego.txt")
             print("2. ensayo_Kantún.txt")
-            print("3. ensayo_ácido_fólico.txt")
-            print("2. ensayo_Priego_parcial.txt")
+            print("3. historia_mexico.txt")
+            print("4. ensayo_Priego_parcial.txt")
             
             # Entrada del usuario para seleccionar los archivos
             opcion_1 = input("Elige el primer documento (1, 2, 3 o 4): ")
@@ -66,7 +66,7 @@ def menu():
             elif opcion_1 == "2":
                 archivo1 = "introduccion_ensayo_kantun.txt"
             elif opcion_1 == "3":
-                archivo1 = "ensayo_acido_folico.txt"
+                archivo1 = "historia_mexico.txt"
             elif opcion_1 == "4":
                 archivo1 = "introduccion_ensayo_priego_parcial.txt"
             else:
@@ -78,7 +78,7 @@ def menu():
             elif opcion_2 == "2":
                 archivo2 = "introduccion_ensayo_kantun.txt"
             elif opcion_2 == "3":
-                archivo2 = "ensayo_acido_folico.txt"
+                archivo2 = "historia_mexico.txt"
             elif opcion_2 == "4":
                 archivo2 = "introduccion_ensayo_priego_parcial.txt"
             else:
@@ -108,7 +108,7 @@ def menu():
 
                     # Calcular la similitud de Jaccard
                     sim = similitud_jaccard(set1, set2)
-                    print(f"\n✅ Similitud Jaccard entre {archivo1} y {archivo2}: {sim:.5f}")
+                    print(f"\n Similitud Jaccard entre {archivo1} y {archivo2}: {sim*100:.1f}%")
 
                 except FileNotFoundError:
                     print("❌ No se encontraron los archivos. Asegúrate de que los documentos existan en la carpeta 'tests'.")
